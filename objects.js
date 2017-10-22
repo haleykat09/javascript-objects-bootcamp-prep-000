@@ -1,7 +1,7 @@
 var playlist = {maroon5: "Sunday Morning"}
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist.Beyonce = 'Crazy In Love'
+  playlist["Phil Ochs"] = "Here's to the State of Mississippi"
 
   return playlist
 }
