@@ -6,7 +6,7 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return playlist
 }
 
-functino removesFromPlaylist (playlist, artistName) {
+functino removeFromPlaylist (playlist, artistName) {
   delete playlist["Phil Ochs"]
 
   return playlist
