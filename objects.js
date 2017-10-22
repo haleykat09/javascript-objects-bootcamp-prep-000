@@ -1,1 +1,1 @@
-var playlist = ["maroon5": "Sunday Morning"]
+var playlist = {maroon5: "Sunday Morning"}
